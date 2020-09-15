@@ -1,3 +1,4 @@
+anguage: generic
 sudo: required
 services:
  - docker
