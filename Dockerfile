@@ -1,4 +1,4 @@
-FROM node:alpine as builder
+FROM node:alpine
 #above as builder is a tagging
 WORKDIR '/app'
 COPY package.json .
